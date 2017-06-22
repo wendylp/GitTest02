@@ -15,6 +15,7 @@ public class HelloGit {
 		System.out.println("hello GitHub @@@@@@@@@@@@@@@@@@@@@");
 		
 		System.out.println("%%%%%%%%%%%%%%%%%");
+		System.out.println("hello GitHub &&&&&&&&&&&&&&&&&&&&");
 		
 		
 	}
